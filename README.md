@@ -23,4 +23,4 @@ rebuild stock management with react.js
 
 ### 项目编译发布
 
-  运行  ``npm run development``，``/dist`` 文件夹中的文件用于发布
+  运行  ``npm run build``，``/dist`` 文件夹中的文件用于发布
