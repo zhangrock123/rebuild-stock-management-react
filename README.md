@@ -2,6 +2,14 @@
 
 rebuild stock management with react.js
 
+库存管理系统（react）重构
+
+```
+  react版本暂未发布，功能和以下vue版本一致。
+  Vue版本预览地址: http://www.goorder.net/stock/#/admin-login
+  帐号：rock，密码：rock
+```
+
 ---
 ### 技术栈
 
