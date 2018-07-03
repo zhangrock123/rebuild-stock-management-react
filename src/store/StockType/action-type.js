@@ -1,0 +1,1 @@
+export const SAVE_STOCK_TYPE = 'SAVE_STOCK_TYPE';

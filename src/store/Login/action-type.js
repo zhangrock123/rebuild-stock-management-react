@@ -1,0 +1,2 @@
+export const GET_VERIFICATION_TOKEN = 'GET_VERIFICATION_TOKEN';
+export const DO_LOGIN='DO_LOGIN';
